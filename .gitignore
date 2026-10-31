@@ -1,0 +1,22 @@
+# Environnement virtuel
+Projet/.venv/
+**/.venv/
+venv/
+
+# Dataset
+Projet/data/
+
+# Modèles entraînés
+Projet/models/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+doc/
